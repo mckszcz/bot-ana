@@ -1,4 +1,4 @@
 telegram:
   bot:
-    token: 580883371:AAG5gouEh0lSf6FLzQU-V_3w0VHoif8K6bY
-    link: https://www.youtube.com/watch?v=12vh55_1ul8
+    token: {BOT_TOKEN}
+    link: {BOT_LINK}
