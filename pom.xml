@@ -15,7 +15,7 @@
     <description>Telegram bot</description>
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
         <telegrambots.version>4.4.0.1</telegrambots.version>
         <commons.version>3.9</commons.version>
     </properties>
